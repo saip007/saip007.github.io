@@ -44,7 +44,7 @@
 
 - **ToDo Web Application**
   - Task App, 📅 Jun 2022 - Jun 2022
-  - ✅ Built a web application using HTML, CSS, Bootstrap, and AngularJS. [Website](https://saip007.github.io/ToDo) | [Repo](https://bit.ly/3AjZ3vo)
+  - ✅ Built a web application using HTML, CSS, Bootstrap, and AngularJS. [Website](https://saip007.github.io/ToDo)
 
 ## Technical Skills
 - Programming languages: Python, C++, JavaScript, R
