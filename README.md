@@ -53,4 +53,4 @@
 - Miscellaneous: MySQL, Problem Solving, Cryptography, Git
 
 ## Relevant Coursework
- - Data Structures and Algorithms | Database | Operating Systems | Computer Networks
+ Data Structures and Algorithms | Database | Operating Systems | Computer Networks
