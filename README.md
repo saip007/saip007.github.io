@@ -43,8 +43,8 @@
   - 📝 Calculated similarity between multiple text files using vectorization and cosine similarity.
 
 - **ToDo Web Application**
-  - Task App, 📅 Jun 2022 - Jun 2022
-  - ✅ Built a web application using HTML, CSS, Bootstrap, and AngularJS. [Website](https://saip007.github.io/ToDo)
+  - [Task App](https://saip007.github.io/ToDo), 📅 Jun 2022 - Jun 2022
+  - ✅ Built a web application using HTML, CSS, Bootstrap, and AngularJS.
 
 ## Technical Skills
 - Programming languages: Python, C++, JavaScript, R
